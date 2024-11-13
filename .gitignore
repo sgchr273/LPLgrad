@@ -1,0 +1,13 @@
+Save/
+query_strategies/
+_pycache_/
+active_learningCaltech101.py
+actlear_CI100.py
+actlear_FMN.py
+actlear_sv.py
+augmentations.py
+*.ipynb
+*.sub
+*.png
+data/
+cifar10/
