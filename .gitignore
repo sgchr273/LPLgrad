@@ -12,6 +12,6 @@ augmentations.py
 data/
 cifar10/
 
-git remote set-url origin https://sgchr273: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@github.com/sgchr273/LPLgrad.git
 
-git remote add origin
+
+
